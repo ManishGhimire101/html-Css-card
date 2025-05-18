@@ -10,7 +10,7 @@ function createCard(
 ) {
   let html = `<div class="container">
       <div class="sub_card">
-        <img class="card_img" src="images/image.png" alt="card image" />
+        <img class="card_img" src="image.png" alt="card image" />
         <h2>${name}</h2>
         <p class="paragraph">${descreption}</p>
         <ul>
